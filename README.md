@@ -1,2 +1,2 @@
-# MacOS-tips
-Terminal tips for MacOS
+# Terminal tips for MacOS
+
